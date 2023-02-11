@@ -3,7 +3,7 @@ exports.handler = async event => {
     return {
       statusCode: 301,
       headers: {
-        location: 'https://astucesmaisonjardinage.com/7-exercices-qui-peuvent-taider-a-bruler-des-tonnes-de-calories-meme-en-regardant-la-television/'
+        location: 'https://astucesmaisonjardinage.com/ces-exercices-du-matin-vous-aideront-a-perdre-3-kg-par-semaine/'
       }
     }
   } else {
